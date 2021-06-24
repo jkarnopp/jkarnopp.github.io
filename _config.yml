@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Kartech LLC
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: IT Solutions Provider
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: jim@kartech.com
+  facebook: jimdkarnopp
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  github: jkarnopp
+  instagram: jimkarnopp
+  linkedin: jimkarnopp
+  pinterest: JimDKarnopp
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: jimkarnopp
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
