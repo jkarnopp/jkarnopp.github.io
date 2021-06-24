@@ -9,4 +9,4 @@ This is my first entry, so I will need to do some tesing.
 ```
 Hello World
 ```
-![Temp Image]({{site.baseurl}}/_posts/IMG_2557.JPEG)
+![Temp Image](/_posts/IMG_2557.JPEG)
